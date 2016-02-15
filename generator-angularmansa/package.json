@@ -1,0 +1,26 @@
+{
+  "name": "generator-angularmansa",
+  "version": "0.0.0",
+  "description": "Yeoman generator for AngularJS [ Customized Folder Structure ]",
+  "homepage": "",
+  "author": {
+    "name": "Manish Kumar Khedawat",
+    "email": "writetomansa@gmail.com",
+    "url": "http://mkkhedawat.appspot.com"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "yeoman-generator",
+    "angularjs",
+    "mansa"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "underscore.string": "^3.2.3",
+    "yeoman-generator": "^0.22.5",
+    "yosay": "^1.1.0"
+  }
+}
